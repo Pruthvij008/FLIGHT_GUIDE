@@ -1,1 +1,1 @@
-
+In this project I have used Dijkstra's algorithm for calculating the price of the flight between source and destination not neccesarily that the flight must be direct it can be an indirect flight for example:flight from a to b then from b to c
